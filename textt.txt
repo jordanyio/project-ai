@@ -1,0 +1,28 @@
+# while on branch main
+
+git pull
+
+# now youre up tpdate, and can create a safe branch to make changes in
+# if the branch doesnt exist yet: 
+git checkout -b feature/yourname
+# else 
+git switch feature/yourname
+#
+# make changes in this branch then : 
+git status
+
+#confirm your on your branch and not on main
+git add .
+git commit -m"you message"
+git push
+
+# it might recomend you set upstream if its the first push, just copy that line and use it for pushing
+-> 
+$ git push
+fatal: The current branch testbranch has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin testbranch       <<<<-------- run this line!!!
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
