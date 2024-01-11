@@ -1,6 +1,8 @@
 # Jupyter Notebook README
 
+
 # Jasmine, Jordan, Sean, Vineet
+## Each of us used our own branch. So contributer stats are not accurate for the default branch.
 
 ## Overview
 This Jupyter notebook is a comprehensive analysis of the correlation between Google trends and stock data, specifically focusing on Nike (NKE) and related consumer search terms. The analysis highlights trends in November and December and introduces a trading algorithm that outperforms the S&P 500. 
