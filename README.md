@@ -4,7 +4,7 @@
 This Jupyter notebook is a comprehensive analysis of the correlation between Google trends and stock data, specifically focusing on Nike (NKE) and related consumer search terms. The analysis highlights trends in November and December and introduces a trading algorithm that outperforms the S&P 500. 
 
 ## Seasonal Advertising Strategy
-In addition to the core analysis, this notebook also explores how companies like Nike, Pandora, Air Bnb, and Carnival Cruise Lines can leverage Google Trends data to optimize their advertising strategies seasonally. This branch of the analysis focuses on identifying specific months and seasons where consumer interest in products peaks, allowing for targeted advertising efforts. By understanding these patterns, companies can allocate their marketing resources more effectively, ensuring that they are advertising their products during periods of high consumer interest, thereby potentially increasing sales and market presence.
+In addition to the core analysis, this notebook also explores how companies like Nike, Pandora, Airbnb, and Carnival Cruise Lines can leverage Google Trends data to optimize their advertising strategies seasonally. This branch of the analysis focuses on identifying specific months and seasons where consumer interest in products peaks, allowing for targeted advertising efforts. By understanding these patterns, companies can allocate their marketing resources more effectively, ensuring that they are advertising their products during periods of high consumer interest, thereby potentially increasing sales and market presence.
 
 ## Dependencies
 - Prophet: For time series forecasting.
